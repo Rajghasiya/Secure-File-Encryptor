@@ -29,7 +29,7 @@ custom or insecure encryption logic.
 ## Installation
 
 1. Clone the repository:
-  git clone 
+  git clone https://github.com/Rajghasiya/Secure-File-Encryptor.git
 
 2. Navigate into the project folder: 
   cd Secure-File-Encryptor 
